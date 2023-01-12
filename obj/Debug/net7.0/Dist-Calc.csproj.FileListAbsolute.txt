@@ -1,0 +1,15 @@
+F:\cSharpPrograms\Distance Calc 2\Dist-Calc\bin\Debug\net7.0\Dist-Calc.exe
+F:\cSharpPrograms\Distance Calc 2\Dist-Calc\bin\Debug\net7.0\Dist-Calc.deps.json
+F:\cSharpPrograms\Distance Calc 2\Dist-Calc\bin\Debug\net7.0\Dist-Calc.runtimeconfig.json
+F:\cSharpPrograms\Distance Calc 2\Dist-Calc\bin\Debug\net7.0\Dist-Calc.dll
+F:\cSharpPrograms\Distance Calc 2\Dist-Calc\bin\Debug\net7.0\Dist-Calc.pdb
+F:\cSharpPrograms\Distance Calc 2\Dist-Calc\obj\Debug\net7.0\Dist-Calc.csproj.AssemblyReference.cache
+F:\cSharpPrograms\Distance Calc 2\Dist-Calc\obj\Debug\net7.0\Dist-Calc.GeneratedMSBuildEditorConfig.editorconfig
+F:\cSharpPrograms\Distance Calc 2\Dist-Calc\obj\Debug\net7.0\Dist-Calc.AssemblyInfoInputs.cache
+F:\cSharpPrograms\Distance Calc 2\Dist-Calc\obj\Debug\net7.0\Dist-Calc.AssemblyInfo.cs
+F:\cSharpPrograms\Distance Calc 2\Dist-Calc\obj\Debug\net7.0\Dist-Calc.csproj.CoreCompileInputs.cache
+F:\cSharpPrograms\Distance Calc 2\Dist-Calc\obj\Debug\net7.0\Dist-Calc.dll
+F:\cSharpPrograms\Distance Calc 2\Dist-Calc\obj\Debug\net7.0\refint\Dist-Calc.dll
+F:\cSharpPrograms\Distance Calc 2\Dist-Calc\obj\Debug\net7.0\Dist-Calc.pdb
+F:\cSharpPrograms\Distance Calc 2\Dist-Calc\obj\Debug\net7.0\Dist-Calc.genruntimeconfig.cache
+F:\cSharpPrograms\Distance Calc 2\Dist-Calc\obj\Debug\net7.0\ref\Dist-Calc.dll
